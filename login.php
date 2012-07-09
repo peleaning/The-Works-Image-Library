@@ -7,7 +7,7 @@
         
         <link rel = 'shortcut icon' href = ''>
         
-        <title>Image Library test</title>
+        <title>Image Library</title>
         
     </head>
 
